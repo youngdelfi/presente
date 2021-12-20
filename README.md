@@ -6,7 +6,7 @@
 - Presente wants to be the #1 choice for people who feel easily overwhelmed with emotions or thoughts, stress or anxiety, and that need a "break" from daily life.
 - Presente can also be used as a healthy habit of reconnecting with yourself throughout the day, to enjoy the present in a self-care and self-awareness ritual.
 
-#### This is my first project using Flutter and Github. I'm sharing how I built it ain my blog: https://youngdel.fi
+#### This is my first project using Flutter and Github. I'm sharing how I built it in my blog: https://youngdel.fi
 
 Please send me any bugs and feature requests to delfi@presente.app.
 
