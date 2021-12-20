@@ -1,16 +1,26 @@
 # presente
+#### Practice and count your breathings, reduce stress, alleviate anxiety.
 
-Presencia contigo
+- Presente is a very simple app (just one screen!) to practice breathing exercises and bring you back to the present moment.
+- Presente is whatever you make of it - it's versatile and available 24/7, whenever you need it: just open the app and you'll be in your safe space.a
+- Presente wants to be the #1 choice for people who feel easily overwhelmed with emotions or thoughts, stress or anxiety, and that need a "break" from daily life.
+- Presente can also be used as a healthy habit of reconnecting with yourself throughout the day, to enjoy the present in a self-care and self-awareness ritual.
 
-## Getting Started
+This is my first project using Flutter and Github. I'm sharing how I built it ain my blog: https://youngdel.fi
 
-This project is a starting point for a Flutter application.
+Please log all bugs and feature requests as issues.
 
-A few resources to get you started if this is your first Flutter project:
+### Now
+- Launched first ever version (1.0) to Play Store and App Store
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Roadmap
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Add support for vibration in iOS
+
+### Support / FAQ
+
+- How do I contact support?
+    - By email to **delfi@presente.app**. I try to reply quickly.
+- Do I need to login or create an account to use Presente?
+    - No, Presente does not need any account or login to be used. No login, no stored data, just one screen.
+ 
