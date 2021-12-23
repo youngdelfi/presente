@@ -16,6 +16,10 @@ Please send me any bugs and feature requests to delfi@presente.app.
 ### Roadmap
 
 - Add support for vibration in iOS
+- Daily Reminders (via push notifications)
+- Write notes and save them into the app or share to somewhere else
+- Enhaced Tracking with Firebase Analytics
+- Make contact email a URL
 
 ### Support / FAQ
 
