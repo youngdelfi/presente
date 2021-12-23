@@ -11,7 +11,7 @@
 Please send me any bugs and feature requests to delfi@presente.app.
 
 ### Now
-- Launched first ever version (1.0) to Play Store and App Store
+- Launched first version (1.0) to Play Store and App Store
 
 ### Roadmap
 
