@@ -15,8 +15,9 @@ Please send me any bugs and feature requests to delfi@presente.app.
 
 ### Roadmap
 
+- Change the default pattern
 - Add support for vibration in iOS
-- Daily Reminders (via push notifications)
+- Daily Reminders (via push notifications). Create a daily habit of breathing
 - Write notes and save them into the app or share to somewhere else
 - Enhaced Tracking with Firebase Analytics
 - Make contact email a URL
